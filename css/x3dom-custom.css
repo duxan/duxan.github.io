@@ -1,0 +1,12 @@
+/* line 1, x3dom-custom.scss */
+#scene {
+  border: none;
+  width: 100%;
+  height: 100%;
+/*  background-image: url("../img/Starfield Blank.png");
+  overflow: auto;
+  background-size: cover;*/
+}
+
+/*background:#000 url(http://1.bp.blogspot.com/_9DvzmslTIME/TQrbamMm_AI/AAAAAAAAAkA/4j8rym11l0g/s1600/planet_Terminus1200.png);
+*/
